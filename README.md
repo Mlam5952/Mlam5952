@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mlam5952
 - 👀 I’m interested in soccer and hockey
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and MatLab
 - 💞️ I’m looking to collaborate on --
 - 📫 How to reach me: DC: Mlam_5952
 - 😄 Pronouns: he/him/they
